@@ -78,4 +78,5 @@ void Star (int d){
   triangle(x+(cos(radians(90))*(d/2)),y+(sin(radians(90))*(d/2)), x+(cos(radians(210))*(d/2)),
   y+(sin(radians(210))*(d/2)), 
   x+(cos(radians(330))*(d/2)),y+(sin(radians(330))*(d/2)));
+  }
 }
